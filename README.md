@@ -14,8 +14,8 @@ Welcome to my lab. I build intelligent systems that turn outreach into impact �
 
 ### 🚀 Featured Projects
 
-- [ERM Café Demo](erm-cafe-demo.netlify.app)
-- 
+- https://website-naija.web.app/
+- (erm-cafe-demo.netlify.app)
 
   
 
